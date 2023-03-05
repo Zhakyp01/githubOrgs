@@ -34,13 +34,13 @@ Users with Read access can view repositories and all of their contents, includin
 Users with Write access can make changes to the repository, including creating new files, editing existing files, and deleting files. They can also create and edit issues, pull requests, and wikis.
 
 ## Triage
-Users can read and clone repository. Can also manage issues and pull requests.
+Users with Triage access can read and clone repository. Can also manage issues and pull requests.
 
 ## Admin
 Users with Admin access have full control over the repository, including adding and removing collaborators, changing permissions, and deleting the repository.
 
 ## Maintain
-Users can read, clone, and push to repository. They can also manage issues, pull requests, and some repository settings.
+Users with Maintain access can read, clone, and push to repository. They can also manage issues, pull requests, and some repository settings.
 
 ## Conclusion
 Having a clear understanding of the different roles and permissions available in GitHub Organization is crucial for managing and collaborating effectively on repositories. By granting the appropriate permissions to users, you can ensure that everyone in the organization has the level of access they need to contribute to the project.
