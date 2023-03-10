@@ -25,7 +25,7 @@ Members are users who are invited to an organization. They can be granted differ
 + Outside Collaborators can have the same level of access as Members, depending on their permissions.
 
 ## Permissions
-There are three types of permissions that can be granted to members and Outside Collaborators:
+There are five types of permissions that can be granted to members and Outside Collaborators:
 
 ## Read
 Users with Read access can view repositories and all of their contents, including issues, pull requests, and wikis. They cannot make changes to the repository.
